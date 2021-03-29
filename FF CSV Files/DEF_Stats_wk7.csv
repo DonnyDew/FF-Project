@@ -1,0 +1,29 @@
+﻿Team,Sack,Int,Saf,FR,Blk,TD,PA,PassYds,RushYds,TotYds
+Kansas City Chiefs,3,2,0,2,0,2,16,234,177,411
+San Francisco 49ers,2,4,0,0,0,0,6,147,94,241
+Washington Football Team,6,1,1,0,0,0,3,59,83,142
+Buffalo Bills,6,2,0,0,0,0,10,91,100,191
+Los Angeles Rams,4,2,0,0,0,0,10,230,49,279
+Chicago Bears,1,0,0,1,1,1,24,211,160,371
+Philadelphia Eagles,3,1,0,2,0,0,21,165,160,325
+Green Bay Packers,3,0,0,1,0,0,20,286,79,365
+Jacksonville Jaguars,1,0,0,0,1,1,39,349,135,484
+Tampa Bay Buccaneers,3,1,0,0,0,0,20,271,76,347
+Arizona Cardinals,2,3,0,0,0,0,34,372,200,572
+Cleveland Browns,4,1,0,1,0,0,34,387,81,468
+New York Jets,2,0,0,1,0,0,18,296,126,422
+Los Angeles Chargers,5,0,0,1,0,0,29,154,140,294
+New England Patriots,1,2,0,0,1,0,33,270,197,467
+Tennessee Titans,0,3,0,0,0,0,27,268,94,362
+Denver Broncos,4,0,0,1,0,0,43,185,101,286
+New York Giants,3,1,0,0,0,0,22,346,96,442
+Detroit Lions,2,0,0,1,0,0,22,322,66,388
+Carolina Panthers,1,0,0,1,0,0,27,277,138,415
+Seattle Seahawks,0,1,0,1,0,0,37,360,159,519
+Atlanta Falcons,2,0,0,0,0,0,23,322,64,386
+Dallas Cowboys,2,0,0,0,0,0,25,189,208,397
+Pittsburgh Steelers,2,0,0,0,0,0,24,210,82,292
+Cincinnati Bengals,0,1,0,0,0,0,37,316,82,398
+Houston Texans,0,0,0,0,1,0,35,283,96,379
+New Orleans Saints,1,0,0,0,0,0,24,246,37,283
+Las Vegas Raiders,0,0,0,0,0,0,45,369,85,454
