@@ -1,5 +1,5 @@
 # Fantasy Football Calculator 2020
-
+Note: This was my first ever project that I did for my introduction class.
 ## Requirements
 Download all the CSV files for program to properly run
 

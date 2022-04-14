@@ -3,7 +3,7 @@
 import csv
 
 week = int(input("Choose what week #: "))   #Week 0 is used for the stats for the whole season which is 1-10
-while week < 0 or week > 17:    #Week 10 is the last week of Football played
+while week < 0 or week > 17:    
     print("Invalid week")       #since finishing the project
     week = input("Choose what week#: ")
 
